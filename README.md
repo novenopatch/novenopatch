@@ -16,7 +16,7 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **164 day before
 ---
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,symfony,laravel,django,react,flutter)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,symfony,django,react)](https://skillicons.dev/)
 
 
 
