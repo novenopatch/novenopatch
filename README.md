@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on all intersting projects. I'm open to any opportunity.
 - 📫 How to reach me: novenosexta77@gmail.com 
 
-Here is my homemade daytime ☀️ counter before next year ⏱ **164 day before 2024 ⏱**
+
 
 # More informations on my website: **[novenopatch.github.io](https://novenopatch.github.io)**
 
