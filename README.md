@@ -39,6 +39,4 @@
 
 
 
-Last update on  Feb 19 2024
-
-🤖 This README.md is updated with cruelty, by Pabot ❤️
+Last update on  Jul 7 2024🤖❤️
