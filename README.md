@@ -1,3 +1,5 @@
+<img src="glyph.svg" align="right" alt="glyph" title="Title" style="max-height: 256px;" width="30%">
+
 ### Hi there 👋
 # 👦 About me
 
@@ -39,4 +41,4 @@
 
 
 
-Last update on  Jul 7 2024🤖❤️
+Last update on  Mai 12 2025🤖❤️
