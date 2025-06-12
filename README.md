@@ -18,7 +18,7 @@
 ---
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,symfony,django,react,go,cpp,laravel,docker,flutter,adonis)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=docker,java,kotlin,symfony,laravel,flutter,django,react,cpp,adonis,nuxtjs)](https://skillicons.dev/)
 
 
 
