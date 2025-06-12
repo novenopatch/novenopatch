@@ -18,16 +18,15 @@
 ---
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,symfony,django,react,go,cpp)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,symfony,django,react,go,cpp,laravel,docker,flutter,adonis)](https://skillicons.dev/)
 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=novenopatch&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=novenopatch&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=novenopatch&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=novenopatch&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
+![](https://github-profile-trophy.vercel.app/?username=novenopatch&theme=default&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=novenopatch&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
