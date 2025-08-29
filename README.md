@@ -38,8 +38,7 @@
 
 ## 🔍 More Information
 - Visitez mon site web: **[novenopatch.github.io](https://novenopatch.github.io)**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=novenopatch&label=Profile%20views&color=0e75b6&style=flat" 
-alt="novenopatch" /> </p>
+- <img src="https://komarev.com/ghpvc/?username=novenopatch&label=Profile%20views&color=0e75b6&style=flat" alt="novenopatch" />
 
 ## ☕ Support Me
 <div align="center">
