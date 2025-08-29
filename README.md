@@ -3,41 +3,59 @@
 ### Hi there 👋
 # 👦 About me code to light
 
+<img src="Lanza.gif" alt="Lanza del Relámpago" title="Lanza del Relámpago" style="max-height: 256px; float: left; margin-right: 20px; margin-bottom: 10px;" width="30%">
 
-- 👋 Hi!, I'm a software developer and economist student at **[Lome University](https://https://etu.univ-lome.tg/)** in Togo.
-- 👀 I’m interested in hacking, software development,ux design and everithing look for technology,
-- 🌱 I’m currently learning kotlin and dart
-- 💞️ I’m looking to collaborate on all intersting projects. I'm open to any opportunity.
+- 👋 Hi!, I'm a software developer and economist student at **[Lome University](https://etu.univ-lome.tg/)** in Togo.
+- 👀 I'm interested in hacking, software development, UX design and everything related to technology
+- 🌱 I'm currently learning Kotlin and Dart
+- 💞️ I'm looking to collaborate on all interesting projects. I'm open to any opportunity.
 - 📫 How to reach me: novenosexta77@gmail.com 
 
+<br clear="left">
 
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jerrykel/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-homawoo/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jerrykel_j)
+[![Mail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novenosexta77@gmail.com)
 
-# More informations on my website: **[novenopatch.github.io](https://novenopatch.github.io)**
-
-
----
-# 💻 Tech Stack:
-
+## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=docker,java,kotlin,symfony,laravel,flutter,django,react,cpp,adonis,nuxtjs)](https://skillicons.dev/)
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=novenopatch&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=novenopatch&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=novenopatch&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=novenopatch&theme=dracula&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=novenopatch&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=novenopatch&theme=default&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=novenopatch&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+## 🔍 More Information
+- Visitez mon site web: **[novenopatch.github.io](https://novenopatch.github.io)**
+- [![Profile Views](https://visitcount.itsvg.in/api?id=novenopatch&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+## ☕ Support Me
+<div align="center">
+    <a href="https://www.buymeacoffee.com/novenopatch">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+    </a>
+</div>
+
+
+
+### Thanks for Visiting my GitHub Profile!
+
 ---
-[![](https://visitcount.itsvg.in/api?id=novenopatch&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jerrykel/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-homawoo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jerrykel_j)
-[![Mail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novenosexta77@gmail.com@gmail.com)
-### Support Me
+<p align="center">
+<img src="https://github.com/novenopatch/novenopatch/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
-<a href="https://www.buymeacoffee.com/novenopatch"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+---
 
-
-
-
-code to light
-Last update on  Mai 12 2025🤖❤️
+*Last update on Mai 12 2025 🤖❤️*
