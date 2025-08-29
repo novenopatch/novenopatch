@@ -24,17 +24,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novenopatch&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=novenopatch&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=novenopatch&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://github-readme-stats.vercel.app/api?username=novenopatch&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=novenopatch&theme=dracula&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=novenopatch&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-profile-trophy.vercel.app/?username=novenopatch&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
 
 ## 🔍 More Information
 - Visitez mon site web: **[novenopatch.github.io](https://novenopatch.github.io)**
