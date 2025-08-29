@@ -38,7 +38,7 @@
 
 ## 🔍 More Information
 - Visitez mon site web: **[novenopatch.github.io](https://novenopatch.github.io)**
-- <img src="https://komarev.com/ghpvc/?username=novenopatch&label=Profile%20views&color=0e75b6&style=flat" alt="novenopatch" />
+- <img src="https://komarev.com/ghpvc/?username=novenopatch&label=Profile%20views&color=0e75b6&style=flat" alt="novenopatch" /> 
 
 ## ☕ Support Me
 <div align="center">
@@ -47,5 +47,15 @@
     </a>
 </div>
 
+
+
 ### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/novenopatch/novenopatch/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
 *Last update on Mai 12 2025 🤖❤️*
