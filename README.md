@@ -46,5 +46,6 @@
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
     </a>
 </div>
+
 ### Thanks for Visiting my GitHub Profile!
 *Last update on Mai 12 2025 🤖❤️*
