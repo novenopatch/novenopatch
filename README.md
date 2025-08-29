@@ -38,7 +38,6 @@
 
 ## 🔍 More Information
 - Visitez mon site web: **[novenopatch.github.io](https://novenopatch.github.io)**
-- [![Profile Views](https://visitcount.itsvg.in/api?id=novenopatch&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ## ☕ Support Me
 <div align="center">
