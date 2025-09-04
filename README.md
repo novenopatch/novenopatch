@@ -1,7 +1,7 @@
 <img src="glyph.svg" align="right" alt="glyph" title="Title" style="max-height: 256px;" width="30%">
 
 ### Hi there 👋
-# 👦 About me code to light
+# 👦 About me 
 
 <img src="Lanza.gif" alt="Lanza del Relámpago" title="Lanza del Relámpago" style="max-height: 256px; float: left; margin-right: 20px; margin-bottom: 10px;" width="30%">
 
